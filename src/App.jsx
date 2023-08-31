@@ -19,7 +19,7 @@ const App = () => {
         <center>
           <img className="sw-logo" src={swLogo} alt="Star Wars Logo" />
           <p>
-            Click on the map to set your distance and find out who is closer to
+            Click on the map to set your location and find out who is closer to
             you in distance.
           </p>
         </center>
